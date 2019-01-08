@@ -1,4 +1,6 @@
-### 4 Keys Keyboard with Arduino for Boot Menu
+### 4-Key USB Keyboard with Arduino for Boot Menu
+
+I need to make a USB keyboard for the BIOS boot menu in my PC. I am using Bluetooth keyboard that doesn't connect during my PC start. Instead of attaching a full size USB keyboard, I make a USB keyboard that only has the required keys.
 
 ## Design
 ![diagram](https://github.com/neoalienson/arduino_boot_menu_usb_keyboard/blob/master/images/diagram.png?raw=true)
